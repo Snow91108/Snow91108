@@ -29,7 +29,7 @@
 - Real-time voice & video calling platform
 - Tech: WebRTC, Node.js, React, MongoDB
 
-### Travelsy
+### Travelsys
 - Travel platform with dashboards, payments, bookings and horror
 - Tech: Next.js, PostgreSQL, MongoDB
 
