@@ -44,3 +44,4 @@
 
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snow91108&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snow91108&layout=compact&theme=dark)
