@@ -40,3 +40,7 @@
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/sachin-rv-70a505293
 
+## 📊 GitHub Stats
+
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snow91108&show_icons=true&theme=dark)
+
