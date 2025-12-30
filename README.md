@@ -40,17 +40,9 @@
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/sachin-rv-70a505293
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Snow91108&show_icons=true&theme=dark&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snow91108&layout=compact&theme=dark"
-    height="170"
-  />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Snow91108&theme=github-dark)
+
 
 
